@@ -23,4 +23,4 @@ many_names = ["Alexa","Burke","Kasimir","Baxter","Carissa","Vielka","Derek","Jem
 
 
 
-# 5. Take that same array list and sort it into two lists: one list of long names, which have more than 6 characters, and one list of short names which have 6 or fewer characters. Then print out both lists.
+# 5. Take that same list and sort it into two lists: one list of long names, which have more than 6 characters, and one list of short names which have 6 or fewer characters. Then print out both lists.
