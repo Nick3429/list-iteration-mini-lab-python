@@ -1,5 +1,7 @@
 # Iteration
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/list-iteration-mini-lab-python)](https://repl.it/github/upperlinecode/list-iteration-mini-lab-python)
+
 ### Introduction
 
 Iterate literally means 'to perform repeatedly'. While human beings get bored of doing something repeatedly, machines excel at it.
